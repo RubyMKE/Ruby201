@@ -3,6 +3,8 @@ Ruby201
 
 Welcome! 
 
+https://github.com/RubyMKE/Ruby201
+
 ## Ruby
 [Foundational Skills](http://ruby201.herokuapp.com/workshop/foundational_skills)
 
