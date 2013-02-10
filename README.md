@@ -3,7 +3,6 @@ Ruby201
 
 Welcome! 
 
-Hashtag:
 
 
 ##Rails App Curriculum
