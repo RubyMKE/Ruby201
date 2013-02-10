@@ -5,7 +5,9 @@ Welcome!
 
 ## Ruby
 [Foundational Skills](http://ruby201.herokuapp.com/workshop/foundational_skills)
+
 [Ruby for Beginners](http://ruby201.herokuapp.com/workshop/ruby_for_beginners)
+
 [Ruby for Programmers](http://ruby201.herokuapp.com/workshop/ruby_for_programmers)
 
 ##Rails App Curriculum
